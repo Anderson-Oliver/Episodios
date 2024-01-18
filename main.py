@@ -1,6 +1,6 @@
 import random
 
-# Escolhendo epsodios aleatorios da serie the big bang theory para assistir.
+# Escolhendo episodios aleatorios da serie the big bang theory para assistir.
 
 temporada = random.randint(1,12)
 
