@@ -1,2 +1,2 @@
 # Uma ajuda para a diversão
-Esse codigo escolhe de forma aleatória um episódio da serie americana THE BIG BANG THEORY, uma vez que essa sitcom, na maioria dos episódios, não tem relação com uma continuidade.
+Esse codigo escolhe de forma aleatoria um episódio da serie americana THE BIG BANG THEORY, uma vez que essa sitcom, na maioria dos episódios, não tem relação com uma continuidade.
